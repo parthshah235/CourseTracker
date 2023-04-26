@@ -1,0 +1,22 @@
+.studentListHeading{
+    padding-bottom: "5px"
+  }
+  .courseListHeading{
+    padding-bottom: "5px"
+  }
+
+  .page{
+    width: '100%';
+	padding: 24px;
+  margin-left: 188px
+  }
+
+  .root-table{
+    display: 'flex';
+    background: '#f4f4f4';
+    width: 200;
+  }
+  .drawer{
+    width: 200;
+  }
+  
